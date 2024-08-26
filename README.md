@@ -60,33 +60,39 @@ Second text
 
 ## Listas
 
+#### Ordenadas
+
 1. Primavera
 1. Verano
 1. Otoño
 1. Invierno
+
+#### Desordenadas
 
 - Primavera
 - Verano
 - Otoño
 - Invierno
 
-* Primavera
+#### Con Sub-listas
+
+- Primavera
   - Septiembre
   - Octubre
   - Noviembre
   - Diciembre
-* Verano
+- Verano
   - Diciembre
   - Enero
   - Febrero
   - Marzo
-* Otoño
+- Otoño
   - Marzo
   - Abril
     - My Birthday Month
   - Mayo
   - Junio
-* Invierno
+- Invierno
   - Junio
   - Julio
   - Agosto
