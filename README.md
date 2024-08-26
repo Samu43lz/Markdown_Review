@@ -22,6 +22,7 @@ Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**
 
 ## Otro encabezado de ejemplo
 
+<!--     ENLACES       -->
 <!-- Para enlaces utilizamos entre corchetes el texto visual y en los parentesis el link externo o interno (como para un Temario) Esto porque Markown reconoce a los encabezados como anclas internas.-->
 
 [Youtube](https://youtube.com)
@@ -34,6 +35,19 @@ Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**
 
 [Otro encabezado](#otro-encabezado-de-ejemplo)
 
+<!-- IMAGENES -->
 <!-- Para imagenes es lo mismo que con los enlaces pero debemos colocar un signo de exclamación al incio, ademas en los corchetes iria información acerca de la imagen por si hubiera un error -->
 
 ![This is me](cat.jpg)
+
+<!-- DIVISIONES -->
+<!-- Para divisiones utilizamos 3 guiones medios
+es nos dara un división igual al <hr> -->
+
+---
+
+First text
+
+---
+
+Second text
