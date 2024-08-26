@@ -25,6 +25,7 @@ Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**
 <!-- Para enlaces utilizamos entre corchetes el texto visual y en los parentesis el link externo o interno (como para un Temario) Esto porque Markown reconoce a los encabezados como anclas internas.-->
 
 [Youtube](https://youtube.com)
+
 [MyProfile](https://github.com/Samu43lz)
 
 [Aprendiendo _Markdown_](#aprendiendo-markdown)
@@ -32,3 +33,7 @@ Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**
 <!-- Si nuestro encabezado tiene espacios, debemos buscarlo rellenando esos espacios con guiones medios pero aveces no hace falta porque Markdown te lo hace. -->
 
 [Otro encabezado](#otro-encabezado-de-ejemplo)
+
+<!-- Para imagenes es lo mismo que con los enlaces pero debemos colocar un signo de exclamación al incio, ademas en los corchetes iria información acerca de la imagen por si hubiera un error -->
+
+![This is me](cat.jpg)
