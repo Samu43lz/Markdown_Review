@@ -97,3 +97,17 @@ Second text
   - Julio
   - Agosto
   - Septiembre
+
+## Citas
+
+#### Cita en Linea
+
+> Siempre tienes opción de no tener opinión. - Marco Aurelio.
+
+#### Cita en Bloque
+
+> Todo lo que escuchamos es una opinión, no un hecho.
+>
+> Todo lo que vemos es una perspectiva, no la verdad.
+>
+> Marco Aurelio.
