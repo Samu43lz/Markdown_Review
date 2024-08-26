@@ -111,3 +111,12 @@ Second text
 > Todo lo que vemos es una perspectiva, no la verdad.
 >
 > Marco Aurelio.
+
+## Tablas
+
+<!-- Las formamos con " | ". Despues de haber creado el encabezado es necesario colocar " | " + guiones bajos " - " segun la cantidad de columnas que tengas para que se cree la tabla -->
+
+| Nombre | Edad | Correo               |
+| ------ | ---- | -------------------- |
+| Samuel | 19   | widosrevel@gmail.com |
+| Juan   | 14   | correo@correo.com    |
