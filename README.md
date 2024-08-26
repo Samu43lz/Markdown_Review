@@ -20,7 +20,9 @@ Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**
 
 ###### Encabezado 6
 
-## Otro encabezado de ejemplo
+### Otro encabezado de ejemplo
+
+## Enlaces e Imagenes
 
 <!--     ENLACES       -->
 <!-- Para enlaces utilizamos entre corchetes el texto visual y en los parentesis el link externo o interno (como para un Temario) Esto porque Markown reconoce a los encabezados como anclas internas.-->
@@ -40,6 +42,8 @@ Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**
 
 ![This is me](cat.jpg)
 
+## Divisiones
+
 <!-- DIVISIONES -->
 <!-- Para divisiones utilizamos 3 guiones medios
 es nos dara un división igual al <hr> -->
@@ -51,3 +55,39 @@ First text
 ---
 
 Second text
+
+---
+
+## Listas
+
+1. Primavera
+1. Verano
+1. Otoño
+1. Invierno
+
+- Primavera
+- Verano
+- Otoño
+- Invierno
+
+* Primavera
+  - Septiembre
+  - Octubre
+  - Noviembre
+  - Diciembre
+* Verano
+  - Diciembre
+  - Enero
+  - Febrero
+  - Marzo
+* Otoño
+  - Marzo
+  - Abril
+    - My Birthday Month
+  - Mayo
+  - Junio
+* Invierno
+  - Junio
+  - Julio
+  - Agosto
+  - Septiembre
