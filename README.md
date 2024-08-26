@@ -120,3 +120,29 @@ Second text
 | ------ | ---- | -------------------- |
 | Samuel | 19   | widosrevel@gmail.com |
 | Juan   | 14   | correo@correo.com    |
+
+## Códigos
+
+#### Código en Linea
+
+<!-- Con la ayuda de Backtics -->
+
+Lorem ipsum dolor sit amet, `Let` consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+
+#### Código en Bloque
+
+<!-- Utilizando 3 Backtics al inicio y al final del bloque de código y además si quieres darle un diseño especifico de un lenguaje puedes colocarle su abreviatura. EJ :  JS (Javascript)  -->
+
+```js
+function sumar(a, b) {
+  return a + b;
+}
+```
+
+#### Tambien podemos utilizar Código HTML !
+
+<!-- Ya que tambien es un lenguaje de marcado. (Dentro de su soporte, soporta las etiquetas de HTML)-->
+<form>
+  <label for="q">Buscar :</label>
+  <input type="search" name="q" id="q">
+</form>
