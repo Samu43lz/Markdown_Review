@@ -146,3 +146,15 @@ function sumar(a, b) {
   <label for="q">Buscar :</label>
   <input type="search" name="q" id="q">
 </form>
+
+## Escape de Caractéres (reservados)
+
+<!-- Utilizamos el Slash invertido " \ "  alt gr + + su boton -->
+
+\*\*negrita\*\* y \_cursiva\_
+
+---
+
+Revisa el documento con todo lo que utilicé y comentarios que hice de manera detallada. 🙂
+
+J. Samuel Salazar Alarcón.
